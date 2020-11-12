@@ -5,6 +5,7 @@
 
 - Tools used in development
   > NextJS
+  <br>
   > Chakra UI
 
 <br/>
