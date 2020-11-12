@@ -4,8 +4,7 @@
 <p>To improve my studies on NextJs, I made a clone of the facebbok login interface, using the nextJs own and the Ui chakra (design tool)</p>
 
 - Tools used in development
-  > NextJS
-  <br>
+  > NextJS<br>
   > Chakra UI
 
 <br/>
